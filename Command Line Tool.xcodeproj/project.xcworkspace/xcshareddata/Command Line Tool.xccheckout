@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>6F21143B-98BB-447C-8618-AB809417D2A1</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Command Line Tool</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>DA96F7EA-1D58-406F-9AE3-001F7B2925F5</key>
+		<string>https://github.com/rosswlewis/Lonely-Integer.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Command Line Tool.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>DA96F7EA-1D58-406F-9AE3-001F7B2925F5</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/rosswlewis/Lonely-Integer.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>DA96F7EA-1D58-406F-9AE3-001F7B2925F5</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>DA96F7EA-1D58-406F-9AE3-001F7B2925F5</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Lonely Integer</string>
+		</dict>
+	</array>
+</dict>
+</plist>
